@@ -17,12 +17,20 @@ p {
   margin-top: 80px;
 }
 
+.nav-link{
+  color:#ffffff;
+}
+
+.nav-link:active,.nav-link:hover{
+  color:grey;
+}
+
 button {
   margin-top: 40px;
 }
 
 .page-header {
-  background-color: #00bda5;
+  background-color: #FF0000;
   padding-top: 40px;
   padding-bottom: 80px;
   color: #ffffff;
